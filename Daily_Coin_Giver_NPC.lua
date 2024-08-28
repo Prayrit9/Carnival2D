@@ -1,3 +1,5 @@
+-- Daily Coin NPC = "SnGq0A1eXNK6iHdFKTr6h1X0EPlnfpNE9GlUnswERPc"
+
 json = require "json"
 sqlite3 = require('lsqlite3')
 
